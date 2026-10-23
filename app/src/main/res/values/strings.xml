@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FocusGuard</string>
+    <string name="accessibility_description">FocusGuard détecte l\'application ouverte afin de la bloquer pendant tes heures de travail. Aucune donnée n\'est lue ni envoyée.</string>
+</resources>

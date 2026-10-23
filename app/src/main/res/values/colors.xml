@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="navy">#0F2A47</color>
+    <color name="navy_dark">#0A1D33</color>
+    <color name="navy_light">#1D4E89</color>
+    <color name="orange">#F28C28</color>
+    <color name="orange_soft">#FDEBD6</color>
+    <color name="bg">#F3F5F9</color>
+    <color name="white">#FFFFFF</color>
+    <color name="text_primary">#14202E</color>
+    <color name="text_secondary">#5B6B7C</color>
+    <color name="success">#1E9E6A</color>
+    <color name="danger">#D64545</color>
+    <color name="divider">#E3E8EF</color>
+    <color name="icon_soft">#E8EEF6</color>
+</resources>
